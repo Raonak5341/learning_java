@@ -24,5 +24,19 @@ A loop statement allows us to execute a statement or group of statements multipl
 
 <br/>
 
+##### for loop syntax
+---------------------------
+for(initialization; condition; increment/decrement){
+    statements(s)
+}
+
+#### while loop syntax
+--------------------------
+initialization;
+while(condition) {
+    statement(s)
+    increment/decrement
+}
+
 #### Very informative and detailed Youtube playlist for learning java in Bangla language: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
 

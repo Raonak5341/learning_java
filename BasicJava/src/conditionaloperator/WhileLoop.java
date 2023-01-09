@@ -1,21 +1,16 @@
 package conditionaloperator;
 
-public class ForLoop {
+public class WhileLoop {
 	
 	public static void main(String[] args) {
 		
-		int i;
+		int i = 1;
 		
-		for(i =1; i<=10; i++) {
+		while(i<=10) {
 			
 			System.out.println(i+". Bangladesh");
+			i++;
 		}
-		
-		for (i=100; i>=1; i--){
-			
-			System.out.println(i);
-		}
-		
 	}
 
 }
