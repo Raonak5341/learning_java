@@ -13,5 +13,16 @@ This repository contains basic java codes, i would upload my daily learning code
 
 <br/>
 
+<br/>
+
+#### For Math class : https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+
+<br/>
+
+#### What is Loop?
+A loop statement allows us to execute a statement or group of statements multiple times.
+
+<br/>
+
 #### Very informative and detailed Youtube playlist for learning java in Bangla language: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
 
