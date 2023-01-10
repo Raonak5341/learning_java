@@ -26,26 +26,26 @@ A loop statement allows us to execute a statement or group of statements multipl
 
 ##### for loop syntax
 ---------------------------
-for(initialization; condition; increment/decrement){
-    statements(s)
+for(initialization; condition; increment/decrement)<br/>{  
+    statements(s)<br/>
 }
 
 #### while loop syntax
 --------------------------
-initialization;
-while(condition) {
-    statement(s)
-    increment/decrement
+initialization;<br/>
+while(condition) {<br/>
+    statement(s)<br/>
+    increment/decrement<br/>
 }
 
 <br/>
 
 #### do while loop syntax
 -----------------------------
-initialization;
-do{
-    statements(s)
-    increment/decrement
+initialization;<br/>
+do{<br/>
+    statements(s)<br/>
+    increment/decrement<br/>
 }while(condition);
 
 <br/>
