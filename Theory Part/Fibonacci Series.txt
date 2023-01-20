@@ -1,0 +1,8 @@
+** The Fibonacci numbers are the numbers in the following integer sequence: 0 1 1 2 3
+5 8 13 21 ......
+** The first two numbers in the Fibonacci sequence are 0 and 1. And each subsequent number
+is the sum of the previous two.
+
+** 2 ways to write the fibonacci series program:
+1. Fibonacci Series without using recursion
+2. Fibonacci Series using recursion

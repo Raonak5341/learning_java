@@ -53,5 +53,12 @@ do{<br/>
 #### Main difference between while and do while loop
 The do while execute atleast one time even if the condition is false.
 
+<br/>
+
+### Prime Number
+--------------------
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.<br/>
+### Example- 2,3,,7,11,13,17,19,23,29,31.........
+
 #### Very informative and detailed Youtube playlist for learning java in Bangla language: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
 
